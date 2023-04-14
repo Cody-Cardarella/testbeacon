@@ -6,3 +6,7 @@
 * {
     background-color: rgb(172, 255, 251);
 }
+
+body {
+    height: 100%;
+}
